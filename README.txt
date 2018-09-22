@@ -1,4 +1,4 @@
-AC-Unit: A Simple unit testing in C
+AC-Unit: A C unit testing framework.
 https://github.com/xenon
 Alexander Acker - September 22nd 2018
 -------------------------------------------------------------------------------
